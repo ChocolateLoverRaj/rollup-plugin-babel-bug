@@ -1,0 +1,25 @@
+{
+  "name": "rollup-plugin-babel-bug",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A minimal repository for a bug with @rollup/plugin-babel.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocolateLoverRaj/rollup-plugin-babel-bug.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChocolateLoverRaj/rollup-plugin-babel-bug/issues"
+  },
+  "homepage": "https://github.com/ChocolateLoverRaj/rollup-plugin-babel-bug#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@rollup/plugin-babel": "^5.2.1",
+    "rollup": "^2.27.1"
+  }
+}
